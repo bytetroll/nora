@@ -3,6 +3,12 @@
   <component name="AnalysisUIOptions">
     <option name="SCOPE_TYPE" value="3" />
   </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated />
   </component>
@@ -12,8 +18,35 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc6ecda-f57c-49aa-afec-6e93df850888" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="6fc6ecda-f57c-49aa-afec-6e93df850888" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compiler/nora.compiler.module.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/compiler/nora.compiler.module.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/nora.core.configuration.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/core/nora.core.configuration.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/nora.core.debug.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/core/nora.core.debug.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/nora.core.directory.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/core/nora.core.directory.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/nora.core.file.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/core/nora.core.file.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/nora.core.module.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/core/nora.core.module.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/nora.core.object.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/core/nora.core.object.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/nora.core.trace.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/core/nora.core.trace.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/nora.core.variable.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/core/nora.core.variable.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cxx/dummy.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cxx/dummy.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cxx/nora.cxx.flags.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cxx/nora.cxx.flags.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cxx/nora.cxx.module.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cxx/nora.cxx.module.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nora.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/nora.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nora.module.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/nora.module.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/nora.package.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/package/nora.package.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/nora.package.module.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/package/nora.package.module.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/nora.package.resolve.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/package/nora.package.resolve.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platform/nora.platform.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/platform/nora.platform.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platform/nora.platform.module.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/platform/nora.platform.module.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/nora.project.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/project/nora.project.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/nora.project.configuration.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/project/nora.project.configuration.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/nora.project.module.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/project/nora.project.module.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/template/nora.project.template.readme.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/project/template/nora.project.template.readme.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolchain/nora.toolchain.executable.post.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/toolchain/nora.toolchain.executable.post.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolchain/nora.toolchain.md.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/toolchain/nora.toolchain.md.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolchain/nora.toolchain.runtime.copy.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/toolchain/nora.toolchain.runtime.copy.cmake" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,17 +58,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="1U13KuGokfEldP0Nn9xho6XA7qy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/nathan/incubator/nora",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -48,6 +94,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -62,20 +109,19 @@
       <workItem from="1574521560699" duration="158000" />
       <workItem from="1574627362209" duration="473000" />
       <workItem from="1574627851005" duration="45000" />
+      <workItem from="1738531837824" duration="145000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
